@@ -1,7 +1,8 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; sub.cjs_landmask.ncl
 ; Carl Schreck (cjschrec@ncsu.edu)
-; July 2015
+; Lakemariam Y. Worku
+; 2018
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; Description: Apply a landsea mask to input data using the mask found at:
 ; https://www.ghrsst.org/products-and-services/tools/navo-ghrsst-pp-land-sea-mask/
