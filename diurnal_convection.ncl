@@ -1,7 +1,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; diurnal_map.ncl
 ; Lakemariam Worku
-; Carl Schreck (cjschrec@ncsu.edu)
+; Carl Schreck 
 ; December 2016
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; Description: Draw maps of rainfall anomalies for each period and panel them
