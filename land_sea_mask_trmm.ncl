@@ -7,7 +7,7 @@
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-load "/home/lworku/NASA_PM/lake/ncl_scripts/sub.cjs_landmask.ncl"
+load "sub.cjs_landmask_trmm.ncl"
 begin
   maskType = "land" ; land, sea, or coast
 ;  maskType = "coast"
