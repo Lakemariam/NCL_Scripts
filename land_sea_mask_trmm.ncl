@@ -1,7 +1,7 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; 
-; lsm.ncl
+; Land Sea MAsk of TRMM
 ; Lakemariam Worku
 ; June 2017
 ;
