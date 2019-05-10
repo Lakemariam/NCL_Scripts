@@ -1,5 +1,5 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-; trmm_diurnal_map.ncl
+; diurnal_map.ncl
 ; Lakemariam Worku
 ; Carl Schreck (cjschrec@ncsu.edu)
 ; December 2016
